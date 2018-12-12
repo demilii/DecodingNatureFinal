@@ -1,0 +1,23 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Spectral DroneMaker",
+	"origin" : "Spectral DroneMaker.auinfo",
+	"type" : "AudioUnit",
+	"subtype" : "AudioEffect",
+	"embed" : 0,
+	"snapshot" : 	{
+		"pluginname" : "Spectral DroneMaker.auinfo",
+		"plugindisplayname" : "Spectral DroneMaker",
+		"pluginsavedname" : "Spectral DroneMaker",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"sliderorder" : [ 2, 0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 14, 17 ],
+		"slidervisibility" : [ 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ],
+		"blob" : "295.hAGaoMGcv.i0AHv.DTfAGfPBJr.CTQWdvU1UyUmXzkGbkwUag4VclE1XzUmbkIGUjEFcgQkag0VYWYWYxMWZu4lDgUmY3IwTD01ZRzjSuI2SPvI..............HA......wbnuB...DvO63xi....BziA7JJ...v.AUsCTC...P..........ELDR......fA.EtspB...b.P........HHjw......PB.........n.PEwHf....KzCyL2L....CBCG......z..........NHDx......vC+.H.......wOTWS4....Q7adA.LVU4FcoQGakQFD.fPEZHxKzjSPFsDTuiO.......P.A.........PC....................5C"
+	}
+
+}
